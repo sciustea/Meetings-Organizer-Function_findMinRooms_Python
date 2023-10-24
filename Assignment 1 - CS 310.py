@@ -3,7 +3,7 @@
 # 10/07/2022
 
 
-# "Design a function to help organize multiple meetings during a day. Each meeting will have a start time and end time. Each meeting will need to reserve a private conference room during that time. Your function will take all the meeting schedules and calculate the minimum number of conference rooms you will need. The requirements are:"
+# "Design a function to help organize multiple meetings during a day. Each meeting will have a start time and end time. Each meeting will need to reserve a private conference room during that time. The function will take all the meeting schedules and calculate the minimum number of conference rooms you will need. The requirements are:"
 
 # "1.	The function will take the input as a sequence of lists, each list only contains two numbers, the start time and the end time. For simplicity, we assume the time is just a float number in the range of 0.0 to 24.0. For example, the function may be given the following input:"
 # "findMinRooms([1.2, 3.4], [2.3, 5.0], [3.1, 8.0])"
